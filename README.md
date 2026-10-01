@@ -1,5 +1,3 @@
-# deepfake-audio-detector
-
 # Deepfake Audio Detector
 
 Detect AI-generated (TTS / voice-conversion) speech, and integrate it into my
